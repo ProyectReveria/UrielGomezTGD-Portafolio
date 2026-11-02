@@ -24,48 +24,37 @@ https://resistances-entertainment.itch.io/gummys-candy-mini-beta-12
 (is here for reference)
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
-# **Game Jam**
+# Game Jam Experience
 
-The next section List the game jams and games make in the jam
+A selection of games and projects developed during game jams in 2026, showcasing my experience across game design, programming, music composition, sound design, and art.
 
-_____________________________________________________________________________________________________________________________________________________________________________________________________________________
-## *LCI Veritas Game Jam (2026)*
+## LCI Veritas Game Jam (2026)
 
-Gamble your worth | Musical Composer 
+**Gamble Your Worth** — Musical Composer  
+[Play the game](https://rogerthat20.itch.io/gableyourworth)
 
-can be found: https://rogerthat20.itch.io/gableyourworth 
+- Music: Electronic and orchestral.
 
-Type of music: -Electornic and Orchestral Music
-_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+**Don't Fall Apart!** — Sound Designer  
+[Play the game](https://alana-mc.itch.io/dont-fall-apart)
 
-Don't Fall Apart! | Sound Designer 
+- Audio: Original instrumental in-game music.
 
-can be found: https://alana-mc.itch.io/dont-fall-apart 
+**Be There in 5!** — Sound Designer  
+[Play the game](https://josua111602.itch.io/be-there-in-5)
 
-Type of music: Instrumenal Only the In Game music
-_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+- Music: Electronic music, short-form loop.
 
-Be there in 5! | Sound Designer 
+**Rust & Relic** — Sound Designer & Game Designer  
+[Play the game](https://manuel-pacheco.itch.io/rust-relic)
 
-https://josua111602.itch.io/be-there-in-5 
+- Music: Electronic.
 
-Type of Music: Electronic music | Short loop
-_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+## imaJam (2026)
 
-Rust & relic | Sound Designer & Game Designer 
+**Unvalley** — Sound Designer, Programmer & Artist  
+[Play the game](https://manzana-exe.itch.io/unvally)
 
-can be found: https://manuel-pacheco.itch.io/rust-relic 
-
-Type of music: Electronic
-
-_____________________________________________________________________________________________________________________________________________________________________________________________________________________
-## *imaJam (2026)*
-
-Unvalley | Sound Desinger, Programer, Artist 
-
-can be found: https://manzana-exe.itch.io/unvally 
-
-Type of Music: Modern Synth 
-
-Game Engine: Unity (C#)
-_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+- Music: Modern synth.
+- Engine: Unity.
+- Programming: C#.
