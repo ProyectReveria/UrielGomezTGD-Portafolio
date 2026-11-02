@@ -4,6 +4,15 @@ Welcome to my professional portfolio. This repository serves as a central hub fo
 
 Here you can explore my previous work, including programming projects, game design documentation, technical specifications, and more.
 
+
+# **Important Notes Before Starting**
+
+One of my side projects is the ongoing foundation of **Ink in Dreams Interactive**, a small independent game development studio focused on creating our own video games.
+
+In the future, we also aim to develop infrastructure and backend solutions for multiplayer games and other companies. However, the studio is currently in its early stages.
+
+The project currently in development is **Chronostasis: Reveria**.
+
 ## Project Documentation
 
 My Game Design Documents (GDDs) and Musical Design Documents are available in the **Game Design Documents** folder.
