@@ -30,24 +30,35 @@ The next section List the game jams and games make in the jam
 ## *LCI Veritas Game Jam (2026)*
 
 Gamble your worth | Musical Composer 
+
 can be found: https://rogerthat20.itch.io/gableyourworth 
+
 Type of music: -Electornic and Orchestral Music
 
 Don't Fall Apart! | Sound Designer 
+
 can be found: https://alana-mc.itch.io/dont-fall-apart 
+
 Type of music: Instrumenal Only the In Game music
 
 Be there in 5! | Sound Designer 
+
 https://josua111602.itch.io/be-there-in-5 
+
 Type of Music: Electronic music | Short loop
 
 Rust & relic | Sound Designer & Game Designer 
+
 can be found: https://manuel-pacheco.itch.io/rust-relic 
+
 Type of music: Electronic
 
 ## *imaJam (2026)*
 
 Unvalley | Sound Desinger, Programer, Artist 
+
 can be found: https://manzana-exe.itch.io/unvally 
+
 Type of Music: Modern Synth 
+
 Game Engine: Unity (C#)
