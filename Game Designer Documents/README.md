@@ -14,6 +14,11 @@ in case of Tecnical problems whit the pdf files or the titles not work please re
 Spanish:https://docs.google.com/document/d/15W0LTiEruvYefEbIs9KHGf2RaQWO0dwWwRga_o989ng/edit?tab=t.0
 English:https://docs.google.com/document/d/1ldD2M7sX2sHzQDC3oFHxCTY3CJx2uwABHkz2gXYJsvU/edit?tab=t.0
 
+## Game Rule
+
+Spanish: https://docs.google.com/document/d/1wBSI6dpP5n2DE37BmIY0rVHzbmRxYPHzBzsWPMzEjeA/edit?tab=t.0
+English: https://docs.google.com/document/d/1CauNuYmYIUVANzyYzqUp9KDtF5aln4bAI4hPesY6N3E/edit?tab=t.0
+
 ## Chronostasis: Reveria
 Spanish:https://docs.google.com/document/d/1rzLG0qNfkhf_SnDNrYUzmJDo6IX2d9GM3EpvWBIb-FM/edit?tab=t.0#heading=h.l42xahno6xm6
 English:https://docs.google.com/document/d/1jM4dVqZDK4ruh28LtJ1GSwsbcl3z8qaVzyAyVK_OuuE/edit?tab=t.0#heading=h.l42xahno6xm6
