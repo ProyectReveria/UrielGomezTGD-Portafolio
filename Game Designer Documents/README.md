@@ -17,6 +17,7 @@ English:https://docs.google.com/document/d/1ldD2M7sX2sHzQDC3oFHxCTY3CJx2uwABHkz2
 ## Game Rule
 
 Spanish: https://docs.google.com/document/d/1wBSI6dpP5n2DE37BmIY0rVHzbmRxYPHzBzsWPMzEjeA/edit?tab=t.0
+
 English: https://docs.google.com/document/d/1CauNuYmYIUVANzyYzqUp9KDtF5aln4bAI4hPesY6N3E/edit?tab=t.0
 
 ## Chronostasis: Reveria
