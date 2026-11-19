@@ -61,6 +61,15 @@ My experience in narrative design began alongside my studies in music and progra
 
 Since then, I have developed narrative concepts, prototypes, story structures, and books. The **Narrative** folder contains selected examples of my work, including completed projects, works in progress, and publicly available materials.
 
+### In Relation to Art
+
+I hope that, in the near future, I can finally start sharing some of my drawing work. For now, my ArtStation profile is open to everyone, and I'll be uploading new content from time to time.
+
+This will include **photography, drawings, and, in the future, animation.**
+
+**Artstation:** https://www.artstation.com/rosarywhitpaint3d
+
+
 ## Contact
 
 For further information about my work, feel free to contact me:
@@ -70,10 +79,3 @@ For further information about my work, feel free to contact me:
 
 # Enjoy your time here, and feel free to ask me anything using the contact information provided !
 
-### In Relation to Art
-
-I hope that, in the near future, I can finally start sharing some of my drawing work. For now, my ArtStation profile is open to everyone, and I'll be uploading new content from time to time.
-
-This will include **photography, drawings, and, in the future, animation.**
-
-**Artstation:** https://www.artstation.com/rosarywhitpaint3d
