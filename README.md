@@ -69,3 +69,11 @@ For further information about my work, feel free to contact me:
 - **Phone:** +506 7110 8289
 
 # Enjoy your time here, and feel free to ask me anything using the contact information provided !
+
+### In Relation to Art
+
+I hope that, in the near future, I can finally start sharing some of my drawing work. For now, my ArtStation profile is open to everyone, and I'll be uploading new content from time to time.
+
+This will include **photography, drawings, and, in the future, animation.**
+
+**Artstation:** https://www.artstation.com/rosarywhitpaint3d
